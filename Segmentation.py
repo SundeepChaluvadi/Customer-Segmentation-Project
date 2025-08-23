@@ -30,18 +30,19 @@ input_data = pd.DataFrame({
 input_scaled = scaler.transform(input_data)
 
 cluster_info = {
-    0: "**Cluster 0**: Older, low-income, low-spending customer who browses often but rarely buys, and hasn't purchased in a long time.",
+    0: "**Cluster 0**: Older, low-income, low-spending customer who browses often but rarely buys.",
 
-    1: "**Cluster 1**: Loyal, fairly active customer with medium-high income and high spending, making many purchases both online and in-store, visiting the website fairly often, and last purchase ~52 days ago.",
+    1: "**Cluster 1**: Loyal, fairly active customer with medium-high income and high spending, making many purchases both online and in-store, visiting the website fairly often.",
 
-    2: "**Cluster 2**: Low-income, low-spending frequent visitor who rarely buys despite visiting often, with very few purchases online and in-store, and last purchase ~26 days ago.",
+    2: "**Cluster 2**: Low-income, low-spending frequent visitor who rarely buys despite visiting often, with very few purchases online and in-store.",
 
-    3: "**Cluster 3**: Youngest, wealthy, high-spending in-store customer who buys moderately online, rarely visits the website, and last purchase ~54 days ago.",
+    3: "**Cluster 3**: Youngest, wealthy, high-spending in-store customer who buys moderately online, rarely visits the website.",
 
-    4: "**Cluster 4**: Older, wealthy customer with very high spending, balanced online and in-store purchases, rarely visiting the website, and hasn't purchased in a long time (~70 days).",
+    4: "**Cluster 4**: Older, wealthy customer with very high spending, balanced online and in-store purchases, rarely visiting the website.",
 
-    5: "**Cluster 5**: Wealthy, high-spending active customer who buys both online and in-store, visits the website sometimes, and purchased very recently (~17 days ago)."
+    5: "**Cluster 5**: Wealthy, high-spending active customer who buys both online and in-store, visits the website sometimes."
 }
+
 
 
 if st.button('Predict Segment'):
