@@ -1,2 +1,2 @@
 # Customer Segmentation Project
-End to end code for the Customer Segmentation project
+End to End code for the Customer Segmentation project
