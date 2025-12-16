@@ -6,7 +6,7 @@ Businesses struggle to understand diverse customer behaviors, leading to ineffec
 
 ## Data Preprocessing
 #### 1. Handling Missing Values
-Checked the dataset for missing values and removed rows with missing data to ensure a clean dataset for modeling.
+- Checked the dataset for missing values and removed rows with missing data to ensure a clean dataset for modeling.
 
 #### 2. Changing the datatype of 'Dt_Customer' from object to datetime64[ns]
 
