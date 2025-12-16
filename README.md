@@ -19,17 +19,26 @@ Businesses struggle to understand diverse customer behaviors, leading to ineffec
 #### 6. Calculating the Customer Tenure
 
 ## Data Visualization
-#### Distributions of Sex, Job, Housing, Saving accounts, Checking account, Purpose
-![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/3de66133cbd6d3d83bfab5818abbab8d051a586b/images/Distributions.png)
+#### Age Distribution
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Age_Distribution.png)
 
-#### High Correlation between Credit Amount and Duration
-![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/6a13e2a2c1fd0df6b6b188ea8a4676e5ff6196ae/images/Correlation.png)
+#### Income Distribution
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Income_Distribution.png)
 
-#### Most of the credit is centered aroung young age with low credit amount <br> As the credit amount is increasing, larger dots implying more duration
-![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/816ce753b88c3b98cc5c27218dd3f70f0ee95800/images/Credit_Amt_By_Sex_and_Duration.png)
+#### Spending Distribution
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Spending_Distribution.png)
 
-#### "Credit amount" and "Duration" affect "Risk" highly
-![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/816ce753b88c3b98cc5c27218dd3f70f0ee95800/images/Credit_amt_and_Duration_Risk.png)
+#### Education V/S Income
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Education_and_Income.png)
+
+#### Marital Status V/S Total Spending
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Marital_Status_Total_Spending.png)
+
+#### Correlation Heatmap
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Correlation_Matrix.png)
+
+#### Average Spending By Education
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/b8ab0cfcd4c6bb6bfa92f4a94ec964376bf299c3/Images/Avg_Spending_Education.png)
 
 ## Dependencies
 ```bash
@@ -37,25 +46,26 @@ Businesses struggle to understand diverse customer behaviors, leading to ineffec
 ```
 
 ## Demo
-https://credit-risk-modeling-123.streamlit.app/
+https://sundeepchaluvadi-customer-segmentation-proj-segmentation-uqun6r.streamlit.app/
 
 ## Installation
 Clone the repository:
 
 ```bash
-  git clone https://github.com/SundeepChaluvadi/Credit-Risk-Modeling.git
-  cd credit-risk-modeling
+  ggit clone https://github.com/SundeepChaluvadi/Customer-Segmentation-Project.git
+  cd Customer-Segmentation-Project
 ```
 
 ## Model Evaluation
-#### Confusion Matrix
+#### Elbow Method
 ![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/c9e4f342829b8ae110fefbac76c236ba695666f0/images/Confusion_matrix.png)
 
-#### ROC-AUC Curve
-![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/c7c3c57d495087112a572613fb391bc67eea362f/images/Roc_Auc_Curve.png)
+#### Visualizing Clusters Using PCA
+![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/4a1a72780f2919435e1ac6090e88665413de26a1/Images/Customer_Segmentation.png)
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/sundeep-chaluvadi))
 
 ## Sources
-https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
+[https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering)
