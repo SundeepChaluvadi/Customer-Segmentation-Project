@@ -77,4 +77,4 @@ Cluster 5: Wealthy and active, shops frequently both online and in-store, visits
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/sundeep-chaluvadi))
 
 ## Sources
-[https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk](https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering)
+https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
