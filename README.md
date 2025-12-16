@@ -52,7 +52,7 @@ https://sundeepchaluvadi-customer-segmentation-proj-segmentation-uqun6r.streamli
 Clone the repository:
 
 ```bash
-  ggit clone https://github.com/SundeepChaluvadi/Customer-Segmentation-Project.git
+  git clone https://github.com/SundeepChaluvadi/Customer-Segmentation-Project.git
   cd Customer-Segmentation-Project
 ```
 
