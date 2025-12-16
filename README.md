@@ -63,12 +63,12 @@ Clone the repository:
 ![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/c9e4f342829b8ae110fefbac76c236ba695666f0/images/Confusion_matrix.png)
 
 #### Visualizing Clusters Using PCA
-Cluster 0: Older, low-income, shops rarely, but checks the website often.
-Cluster 1: Regular customer, medium-high income, shops a lot both online and in-store.
-Cluster 2: Low-income, visits often but buys very little.
-Cluster 3: Young, wealthy, spends a lot in-store, buys a bit online, rarely visits the website.
-Cluster 4: Older, rich, spends very high amounts, buys both online and in-store, rarely visits website.
-Cluster 5: Wealthy and active, shops frequently both online and in-store, visits website sometimes.
+Cluster 0: Older, low-income, shops rarely, but checks the website often. <br>
+Cluster 1: Regular customer, medium-high income, shops a lot both online and in-store. <br>
+Cluster 2: Low-income, visits often but buys very little. <br>
+Cluster 3: Young, wealthy, spends a lot in-store, buys a bit online, rarely visits the website. <br>
+Cluster 4: Older, rich, spends very high amounts, buys both online and in-store, rarely visits website. <br>
+Cluster 5: Wealthy and active, shops frequently both online and in-store, visits website sometimes. <br>
 
 ![image alt](https://github.com/SundeepChaluvadi/Customer-Segmentation-Project/blob/4a1a72780f2919435e1ac6090e88665413de26a1/Images/Customer_Segmentation.png)
 
