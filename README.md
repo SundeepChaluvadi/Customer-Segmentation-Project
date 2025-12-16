@@ -5,18 +5,18 @@ Analyzed customer behavior patterns to identify meaningful segments that drive t
 Businesses struggle to understand diverse customer behaviors, leading to ineffective marketing, lower retention, and missed revenue opportunities.
 
 ## Data Preprocessing
-#### Handling Missing Values
+#### 1. Handling Missing Values
 Checked the dataset for missing values and removed rows with missing data to ensure a clean dataset for modeling.
 
-#### Changing the datatype of 'Dt_Customer' from object to datetime64[ns]
+#### 2. Changing the datatype of 'Dt_Customer' from object to datetime64[ns]
 
-#### Adding a column 'Age' using Year_of_Birth
+#### 3. Adding a column 'Age' using Year_of_Birth
 
-#### Adding a column 'Total_Children' by adding the values of Kidhome and Teenhome
+#### 4. Adding a column 'Total_Children' by adding the values of Kidhome and Teenhome
 
-#### Calculating the total spending of each customer
+#### 5. Calculating the total spending of each customer
 
-#### Calculating the Customer Tenure
+#### 6. Calculating the Customer Tenure
 
 ## Data Visualization
 #### Distributions of Sex, Job, Housing, Saving accounts, Checking account, Purpose
