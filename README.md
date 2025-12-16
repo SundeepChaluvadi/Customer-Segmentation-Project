@@ -1,4 +1,4 @@
-# Credit Risk Modeling
+# Customer Segmentation
 Analyzed customer behavior patterns to identify meaningful segments that drive targeted marketing, improved retention, and higher sales.
 
 ## Business Problem
