@@ -58,6 +58,8 @@ Clone the repository:
 
 ## Model Evaluation
 #### Elbow Method
+1. The WCSS values indicate that clustering performance improves as the number of clusters increases, with diminishing returns after 5–6 clusters, suggesting the optimal number of customer segments is 6.
+
 ![image alt](https://github.com/SundeepChaluvadi/Credit-Risk-Modeling/blob/c9e4f342829b8ae110fefbac76c236ba695666f0/images/Confusion_matrix.png)
 
 #### Visualizing Clusters Using PCA
